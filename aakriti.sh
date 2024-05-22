@@ -1,1 +1,1 @@
-echo "helo" > /tmp/vipin.txt
+eho "helo" > /tmp/vipin.txt
